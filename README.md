@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fardinevanlimon
+- 👋 Hi, I’m Fardin Evan Limon
 - 👀 I’m interested in Python & UX/UI Design
 - 🌱 I’m currently learning C & UX/UI Design
 - 💞️ I’m looking to collaborate on UX/UI Design
